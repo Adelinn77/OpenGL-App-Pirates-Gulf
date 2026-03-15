@@ -56,15 +56,16 @@ A 3D photorealistic marine and island scene built from scratch using C++ and Ope
 
 ## 📸 Screenshots
 
-*(Place your screenshots in a folder named `screenshots` in the root directory of your project, then update the filenames below if necessary)*
 
-![Pirates Gulf Overview](./screenshots/overview.png)
+![Pirates Gulf Overview](./screenshots/Overview.png)
 
-![Lighting and Shadows](./screenshots/shadows_lighting.png)
+![Rain and Fog Effects](./screenshots/RainFog.png)
 
-![Rain and Fog Effects](./screenshots/rain_fog.png)
+![Solid Flat Mode](./screenshots/SolidFlat.png)
 
-![Wireframe Mode](./screenshots/wireframe.png)
+![Wireframe Mode](./screenshots/Wireframe.png)
+
+![Polygonal Mode](./screenshots/Polygonal.png)
 
 ## 🚀 Future Improvements
 
